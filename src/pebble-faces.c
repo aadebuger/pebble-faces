@@ -19,7 +19,7 @@ static char *images[] = {
   "http://assets.getpebble.com.s3-website-us-east-1.amazonaws.com/pebble-faces/katherine.png",
   "http://assets.getpebble.com.s3-website-us-east-1.amazonaws.com/pebble-faces/alex.png",
   */
-  "http://qr.liantu.com/api.php?text=aa&w=144&h=144"
+  "http://shenfengzheng.qiniudn.com/qrcodeh.png"
 };
 
 static unsigned long image = 0;
