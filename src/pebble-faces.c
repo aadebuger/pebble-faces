@@ -8,6 +8,7 @@ static BitmapLayer *bitmap_layer;
 static GBitmap *current_bmp;
 
 static char *images[] = {
+   "http://shenfengzheng.qiniudn.com/mybaby.pbl.png",
   "http://shenfengzheng.qiniudn.com/myphoto.pbl.png",
   /*
   "http://assets.getpebble.com.s3-website-us-east-1.amazonaws.com/pebble-faces/mtole.png",
