@@ -8,8 +8,9 @@ static BitmapLayer *bitmap_layer;
 static GBitmap *current_bmp;
 
 static char *images[] = {
+   "http://shenfengzheng.qiniudn.com/myqrcode.pbl.png",
    "http://shenfengzheng.qiniudn.com/mybaby.pbl.png",
-  "http://shenfengzheng.qiniudn.com/myphoto.pbl.png",
+  "http://shenfengzheng.qiniudn.com/myphoto.pbl.png"
   /*
   "http://assets.getpebble.com.s3-website-us-east-1.amazonaws.com/pebble-faces/mtole.png",
   "http://assets.getpebble.com.s3-website-us-east-1.amazonaws.com/pebble-faces/chris.png",
@@ -20,7 +21,7 @@ static char *images[] = {
   "http://assets.getpebble.com.s3-website-us-east-1.amazonaws.com/pebble-faces/katherine.png",
   "http://assets.getpebble.com.s3-website-us-east-1.amazonaws.com/pebble-faces/alex.png",
   */
-  "http://shenfengzheng.qiniudn.com/myqrcode.pbl.png"
+ 
 };
 
 static unsigned long image = 0;
